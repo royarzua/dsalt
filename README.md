@@ -33,4 +33,4 @@ License
 
 This project is licensed under the MIT License.
 
-© [Your Name] | Dsalt Project
+© [Dsalt Team] | Dsalt Project
