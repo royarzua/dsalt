@@ -2,6 +2,13 @@
 
 Welcome to the Dsalt Code Repository! This repository provides access to codes and scripts that simulate various examples discussed in articles published under the [Dsalt project](https://dsalt.cl).
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Installation
 
 Before you start using the Dsalt codes, ensure you have [Fenics](https://fenicsproject.org) and [FreeFem++](https://freefem.org) installed on your system. Follow the installation instructions for each tool on their respective websites.
