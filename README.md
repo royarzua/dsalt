@@ -25,7 +25,7 @@ Once you have Fenics and FreeFem++ installed, follow these steps:
 
 Ensure Fenics and FreeFem++ are properly configured on your system to execute the simulations successfully.
 
-Contributing
+## Contributing
 
 We welcome contributions from the community! If you'd like to contribute to the Dsalt Code Repository, follow these steps:
 
