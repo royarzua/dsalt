@@ -11,7 +11,7 @@ Once you have Fenics and FreeFem++ installed, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/dsalt-code-repo.git
+   git clone https://github.com/royarzua/dsalt-code-repo.git
 
 2. Run the codes using FEniCS or FreeFem++
 
