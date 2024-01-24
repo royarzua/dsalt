@@ -22,14 +22,14 @@ Contributing
 
 We welcome contributions from the community! If you'd like to contribute to the Dsalt Code Repository, follow these steps:
 
-Fork the repository
-Create a branch (git checkout -b feature/new-feature)
-Make changes and commit (git commit -am 'Add new feature')
-Push changes to the branch (git push origin feature/new-feature)
-Open a pull request
-Please ensure your contributions align with the project's goals and coding standards.
+1. Fork the repository
+2. Create a branch (git checkout -b feature/new-feature)
+3. Make changes and commit (git commit -am 'Add new feature')
+4. Push changes to the branch (git push origin feature/new-feature)
+5. Open a pull request
+6. Please ensure your contributions align with the project's goals and coding standards.
 
-License
+## License
 
 This project is licensed under the MIT License.
 
